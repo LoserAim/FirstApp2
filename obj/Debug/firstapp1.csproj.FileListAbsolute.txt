@@ -1,0 +1,7 @@
+C:\Users\Andrew Doser\source\repos\firstapp1\firstapp1\bin\Debug\firstapp1.exe.config
+C:\Users\Andrew Doser\source\repos\firstapp1\firstapp1\bin\Debug\firstapp1.exe
+C:\Users\Andrew Doser\source\repos\firstapp1\firstapp1\bin\Debug\firstapp1.pdb
+C:\Users\Andrew Doser\source\repos\firstapp1\firstapp1\obj\Debug\firstapp1.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Doser\source\repos\firstapp1\firstapp1\obj\Debug\firstapp1.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Doser\source\repos\firstapp1\firstapp1\obj\Debug\firstapp1.exe
+C:\Users\Andrew Doser\source\repos\firstapp1\firstapp1\obj\Debug\firstapp1.pdb
